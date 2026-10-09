@@ -17,7 +17,7 @@
 
 ---
 
-## 📌 Mission & Strategic Goals
+## Mission & Strategic Goals
 
 **GDG on Campus USTO-MB** is university-recognized and supported by Google for Developers. Our primary objective is to cultivate high-caliber engineering talent capable of architecting, deploying, and maintaining scalable, secure digital systems.
 
@@ -29,11 +29,11 @@
 
 ---
 
-## 🚀 Flagship Projects & Engineering Ecosystem
+## Flagship Projects & Engineering Ecosystem
 
 Our repositories focus on building robust, modular software using modern web frameworks, serverless cloud architectures, and machine learning pipelines.
 
-### 🌟 [NACS Platform (National Association of Campus Societies)](https://github.com/sirgio03/NACS-BETA)
+### [NACS Platform (National Association of Campus Societies)](https://github.com/gdg-usto-mb/NACS)
 A production web platform and administrative governance portal federating Algerian university student societies across all 58 wilayas.
 - **Frontend**: Angular 20 Standalone architecture, Angular Signals reactive state, strictly typed TypeScript.
 - **Backend**: Firebase Cloud Functions v2 (Node.js 24 LTS runtime) enforcing a **server-side mutation boundary**.
@@ -43,18 +43,18 @@ A production web platform and administrative governance portal federating Algeri
   - Centralizes verified student society profiles with zero personal data leakage.
   - Maintains an immutable national showcase of university hackathon projects and open-source tools.
 
-### 🌟 Google Solution Challenge Initiatives
+### Google Solution Challenge Initiatives
 Annual engineering tracks addressing the **United Nations 17 Sustainable Development Goals (SDGs)** utilizing Google technologies (Firebase, Google Cloud Platform, TensorFlow, Flutter):
 - AI-driven agricultural analytics for arid regional climates.
 - Accessible student health, scheduling, and academic collaboration tooling.
 
-### 🌟 Campus Utilities & Open Source Tooling
+### Campus Utilities & Open Source Tooling
 - Modular libraries, authentication helpers, and UI design token kits tailored for Algerian university workflows.
 - Reusable GitHub Actions workflows and security validation templates for student projects.
 
 ---
 
-## 🛠️ Technical Focus Tracks & Stack Matrix
+## Technical Focus Tracks & Stack Matrix
 
 Our community operates structured technical divisions providing guided mentorship and code review:
 
@@ -82,19 +82,19 @@ Our community operates structured technical divisions providing guided mentorshi
 
 ---
 
-## 🏛️ Community Programs & Activities
+## Community Programs & Activities
 
 Throughout the academic year, GDG on Campus USTO-MB organizes technical initiatives designed to upskill students at all levels:
 
-- 💻 **DevFest Oran**: Annual flagship tech conference gathering student developers, professional engineers, and industry leaders for deep-dive technical sessions and workshops.
-- 🧪 **Google Cloud & Flutter Study Jams**: Hands-on guided codelab cohorts where participants earn Google Cloud skill badges and build deployable applications.
-- ⚡ **Hackathons & Ideathons**: 24- to 48-hour intensive building sprints focusing on solving university, community, and national challenges.
-- 🔍 **Architecture & Code Review Clinics**: Weekly peer reviews where student pull requests are reviewed by core leads for clean code, design patterns, and test coverage.
-- 🎙️ **Tech Talks & Speaker Sessions**: Technical lectures on systems engineering, cloud architecture, cybersecurity, and technical career readiness.
+- **DevFest Oran**: Annual flagship tech conference gathering student developers, professional engineers, and industry leaders for deep-dive technical sessions and workshops.
+- **Google Cloud & Flutter Study Jams**: Hands-on guided codelab cohorts where participants earn Google Cloud skill badges and build deployable applications.
+- **Hackathons & Ideathons**: 24- to 48-hour intensive building sprints focusing on solving university, community, and national challenges.
+- **Architecture & Code Review Clinics**: Weekly peer reviews where student pull requests are reviewed by core leads for clean code, design patterns, and test coverage.
+- **Tech Talks & Speaker Sessions**: Technical lectures on systems engineering, cloud architecture, cybersecurity, and technical career readiness.
 
 ---
 
-## 🤝 Student Developer Contribution Standard
+## Student Developer Contribution Standard
 
 We welcome contributions from USTO-MB students and peer developer communities across Algeria. All organization repositories adhere to strict software quality baselines.
 
@@ -123,14 +123,14 @@ Before requesting review on any GDG USTO-MB repository:
 
 ---
 
-## 🌐 Connect With Us
+## Connect With Us
 
 Stay connected with our core organizing team, announcements, and upcoming events:
 
-- 🌍 **GDG Community Platform**: [gdg.community.dev/gdg-on-campus-universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf-oran-algeria/](https://gdg.community.dev)
-- 🐙 **GitHub Organization**: [github.com/gdg-usto-mb](https://github.com/gdg-usto-mb)
-- 🏫 **Campus**: Université des Sciences et de la Technologie d'Oran Mohamed-Boudiaf (USTO-MB), BP 1505 El M'naouer, Oran, Algeria
-- 📧 **Contact**: Reach out via our official community page or open a discussion on our repositories.
+- **GDG Community Platform**: [gdg.community.dev/gdg-on-campus-universite-des-sciences-et-de-la-technologie-doran-mohamed-boudiaf-oran-algeria/](https://gdg.community.dev)
+- **GitHub Organization**: [github.com/gdg-usto-mb](https://github.com/gdg-usto-mb)
+- **Campus**: Université des Sciences et de la Technologie d'Oran Mohamed-Boudiaf (USTO-MB), BP 1505 El M'naouer, Oran, Algeria
+- **Contact**: Reach out via our official community page or open a discussion on our repositories.
 
 ---
 
