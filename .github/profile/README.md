@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="assets/gdg_certified.png" alt="Google Developer Groups On Campus • USTO-MB Certified" width="160" style="margin-bottom: 10px;" />
+</p>
+
 # Google Developer Groups on Campus — USTO-MB
 ### Université des Sciences et de la Technologie d'Oran Mohamed-Boudiaf (USTO-MB)
 **Oran, Algeria (Wilaya 31)**
@@ -32,6 +36,13 @@
 ## Flagship Projects & Engineering Ecosystem
 
 Our repositories focus on building robust, modular software using modern web frameworks, serverless cloud architectures, and machine learning pipelines.
+
+### [Argos-Med (Edge-Native Maritime Domain Awareness)](https://github.com/gdg-usto-mb/Argos-Med)
+A 100% offline, air-gapped maritime surveillance system built for the **Forum Méditerranéen de l'IA (FMIA)** at Palais du Pharo, Marseille.
+- **Perception**: Copernicus Sentinel-1 C-band SAR processing with INT8 quantized YOLOv8n running in sub-30ms on standard edge CPU via ONNX Runtime.
+- **Geoprocessing & Correlation**: Rasterio affine coordinate transformations and cKDTree spatial correlation against local AIS transponder logs to isolate non-cooperative dark vessels.
+- **Edge Reasoning**: Onboard quantized Small Language Model (LLaMA 3.2 1B via llama.cpp) synthesizing STANAG-compliant tactical naval SITREPs.
+- **Sovereignty**: Zero cloud dependencies, compliant with EU AI Act High-Risk safeguards, calibrated for the Marseille (Calanques) and Oran (Habibas Reserve) corridors.
 
 ### [NACS Platform (National Association of Campus Societies)](https://github.com/gdg-usto-mb/NACS)
 A production web platform and administrative governance portal federating Algerian university student societies across all 58 wilayas.

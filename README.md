@@ -1,4 +1,12 @@
+<div align="center">
+
+<p align="center">
+  <img src="assets/gdg_certified.png" alt="Google Developer Groups On Campus • USTO-MB Certified" width="160" style="margin-bottom: 12px;" />
+</p>
+
 # NACS Platform (National Association of Campus Societies)
+### Interconnecting Algerian University Societies Across 58 Wilayas
+**Developed by Google Developer Groups on Campus USTO-MB**
 
 [![CI Pipeline](https://github.com/sirgio03/NACS-BETA/actions/workflows/ci.yml/badge.svg)](https://github.com/sirgio03/NACS-BETA/actions/workflows/ci.yml)
 [![Node.js Runtime](https://img.shields.io/badge/Node.js-24.x-339933?logo=node.js)](https://nodejs.org)
@@ -6,7 +14,11 @@
 [![Firebase](https://img.shields.io/badge/Firebase-12.18.x-FFCA28?logo=firebase)](https://firebase.google.com)
 [![License](https://img.shields.io/badge/License-Proprietary-blue.svg)]()
 
-Production-grade web platform and administrative governance portal for the **National Association of Campus Societies (NACS)**, interconnecting university student societies, tech clubs, and academic chapters across Algeria's 58 wilayas.
+<p align="center">
+  Production-grade web platform and administrative governance portal for the <b>National Association of Campus Societies (NACS)</b>, interconnecting university student societies, tech clubs, and academic chapters across Algeria's 58 wilayas.
+</p>
+
+</div>
 
 ---
 
